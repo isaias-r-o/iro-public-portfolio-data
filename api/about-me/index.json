@@ -1,0 +1,16 @@
+{
+  "blocks": [
+    {
+      "id": "1",
+      "title": "Minha jornada",
+      "description": "Minha trajetória na tecnologia começou em 2020, quando descobri minha paixão pela programação. Em 2021, iniciei a graduação em Engenharia de Software, obtendo diversos certificados e desenvolvendo projetos, com foco em Front-end. Desde então, tenho me dedicado intensamente aos estudos em TI e, ao longo desse tempo, adquiri significativa experiência na área. Estou constantemente em busca de novas formas de crescer e aprimorar minhas habilidades.",
+      "link": ""
+    },
+    {
+      "id": "2",
+      "title": "Sobre meu trabalho",
+      "description": "Trabalhar com tecnologia é minha paixão. Os desafios constantes me impulsionam a crescer e inovar, sempre valorizando a experiência do usuário ao criar softwares intuitivos e agradáveis. Planejo e estruturo bem os projetos para garantir eficiência e qualidade, priorizando o cumprimento de prazos e a organização. Acredito que transparência e integridade são essenciais para construir confiança e promover o crescimento profissional, seguindo sempre os princípios de honestidade e humildade.",
+      "link": ""
+    }
+  ]
+}
